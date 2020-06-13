@@ -1,37 +1,91 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="/w3css/3/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<body>
 
-You can use the [editor on GitHub](https://github.com/AxtonG/AxtonG.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+<!-- Navigation -->
+<nav class="w3-bar w3-black">
+  <a href="#home" class="w3-button w3-bar-item">Home</a>
+</nav>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<!-- Slide Show -->
+<section>
+  <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/qX8ZoIG.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/PhssuFB.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/Xgabcso.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/CtLtJku.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/H3Nu2jE.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/S2EaCZM.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/ur67QXt.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/9sJXkgT.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
+  style="width:100%">
+</section>
 
-### Markdown
+<!-- Band Description -->
+<section class="w3-container w3-center w3-content" style="max-width:600px">
+  <h2 class="w3-wide">CONTENT CREATOR</h2>
+  <div class="w3-center-align"><p class="w3-justify">Recommended by 4 out of 5 people who recommend things.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p></div>
 
-```markdown
-Syntax highlighted code block
+<br></br>
 
-# Header 1
-## Header 2
-### Header 3
+</section>
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+<!-- Footer -->
+<footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+	<h3 class="w3-wide">Links</h3>
+  <a href="https://www.twitch.tv/axtong"><i class="fa fa-twitch"></i></a>
+  <a href="https://youtube.com/axtong"><i class="fa fa-youtube"></i></a>
+  <a href="https://twitter.com/AxtonGTV"><i class="fa fa-twitter"></i></a>
+  <a href="https://discord.com/invite/HmBAzC4"><i class="fa fa-microphone"></i></a>
+  <a href="https://patreon.com/AxC"><i class="fa fa-money"></i></a> 
+  <a href="https://streamlabs.com/axtong/tip"><i class="fa fa-dollar"></i></a>
+  <a href="https://www.instagram.com/axtonog/"><i class="fa fa-instagram"></i></a> 
+  <a href="mailto:contactaxton@gmail.com"><i class="fa fa-inbox"></i></a>
+</footer>
 
-[Link](url) and ![Image](src)
-```
+<script>
+// Automatic Slideshow - change image every 3 seconds
+var myIndex = 0;
+carousel();
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 4000);
+}
+</script>
 
-### Jekyll Themes
+</body>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AxtonG/AxtonG.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
