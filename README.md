@@ -6,12 +6,12 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 <body>
 
-<!-- Navigation -->
+
 <nav class="w3-bar w3-black">
   <a href="#home" class="w3-button w3-bar-item">Home</a>
 </nav>
 
-<!-- Slide Show -->
+
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
   style="width:100%">
@@ -41,7 +41,6 @@
   style="width:100%">
 </section>
 
-<!-- Band Description -->
 <section class="w3-container w3-center w3-content" style="max-width:600px">
   <h2 class="w3-wide">CONTENT CREATOR</h2>
   <div class="w3-center-align"><p class="w3-justify">Recommended by 4 out of 5 people who recommend things.
@@ -52,9 +51,6 @@ From trying new games to climbing mountains, the AxtonG channels work towards fo
 
 </section>
 
-
-
-<!-- Footer -->
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
 	<h3 class="w3-wide">Links</h3>
   <a href="https://www.twitch.tv/axtong"><i class="fa fa-twitch"></i></a>
