@@ -1,8 +1,4 @@
 <html>
-	<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" href="/w3css/3/w3.css">
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
 <body>
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
@@ -38,7 +34,7 @@
 <p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
 
 
-<footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
+
 	<h3 class="w3-wide">Links</h3>
   <a href="https://www.twitch.tv/axtong"><i class="fa fa-twitch"></i></a>
   <a href="https://youtube.com/axtong"><i class="fa fa-youtube"></i></a>
@@ -48,7 +44,7 @@
   <a href="https://streamlabs.com/axtong/tip"><i class="fa fa-dollar"></i></a>
   <a href="https://www.instagram.com/axtonog/"><i class="fa fa-instagram"></i></a> 
   <a href="mailto:contactaxton@gmail.com"><i class="fa fa-inbox"></i></a>
-</footer>
+
 
 <script>
 
