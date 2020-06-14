@@ -25,7 +25,7 @@
   </div>
 
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:80%">
+  style="width:80%" class="center">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
   style="width:80%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
