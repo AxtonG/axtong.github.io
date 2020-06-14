@@ -3,7 +3,7 @@
   <style>
 .center {
   margin: auto;
-  width: 100%;
+  width: 60%;
   
   padding: 10px;
 }
@@ -23,33 +23,33 @@
   <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow">Instagram</a>
   <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
   </div>
-<div class="w3-container">
+
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/qX8ZoIG.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/PhssuFB.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/Xgabcso.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/CtLtJku.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/H3Nu2jE.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/S2EaCZM.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/ur67QXt.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/9sJXkgT.png"
-  style="width:auto">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
-  style="width:auto">
+  style="width:100%">
 </div>
 
 
