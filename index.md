@@ -5,7 +5,7 @@
   
   width: 100%;
   margin: auto;
-  padding: 10px;
+  padding: 0px;
 }
 </style>
 <meta name="viewport" content="width=device-width, initial-scale=1">
