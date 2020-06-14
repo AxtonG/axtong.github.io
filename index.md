@@ -12,7 +12,6 @@
   <a href="https://streamlabs.com/axtong/tip" class="w3-bar-item w3-hover-teal">Donations</a>
   <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow">Instagram</a>
   <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
-</div>
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
   style="width:150%">
@@ -41,7 +40,7 @@
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
   style="width:150%">
 </section>
-
+  </div>
 <h1>CONTENT CREATOR</h1>
 
 <p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
