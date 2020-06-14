@@ -34,7 +34,7 @@
 <p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
 
 
-
+<section>
 	<h3 class="w3-wide">Links</h3>
   <a href="https://www.twitch.tv/axtong"><i class="fa fa-twitch"></i></a>
   <a href="https://youtube.com/axtong"><i class="fa fa-youtube"></i></a>
@@ -44,9 +44,9 @@
   <a href="https://streamlabs.com/axtong/tip"><i class="fa fa-dollar"></i></a>
   <a href="https://www.instagram.com/axtonog/"><i class="fa fa-instagram"></i></a> 
   <a href="mailto:contactaxton@gmail.com"><i class="fa fa-inbox"></i></a>
+</section>
 
 
-<script>
 
 var myIndex = 0;
 carousel();
@@ -62,6 +62,6 @@ function carousel() {
   x[myIndex-1].style.display = "block";
   setTimeout(carousel, 4000);
 }
-</script>
+
 </body>
 </html>
