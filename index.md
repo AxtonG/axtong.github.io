@@ -2,7 +2,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
-  <section class="w3-center">
+  <div class="w3-container w3-center">
 <div class="w3-container">
 <div class="w3-bar w3-black">
   <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple">Twitch</a>
@@ -41,7 +41,7 @@
   style="width:150%">
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
   style="width:150%">
-</section>
+</div>
 <h1>CONTENT CREATOR</h1>
 <p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
 
