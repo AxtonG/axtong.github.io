@@ -64,5 +64,4 @@ function carousel() {
   setTimeout(carousel, 4000);
 }
 </script>
-</body>
-</html>
+
