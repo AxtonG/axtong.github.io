@@ -14,14 +14,14 @@
 
 
 <div class="w3-bar w3-black w3-center"  style="height:55px">
-  <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple" style:"fontsize:300%">Twitch</a>
-  <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red" style:"fontsize:300%">YouTube</a>
-  <a href="https://twitter.com/AxtonGTV" class="w3-bar-item w3-hover-blue" style:"fontsize:300%">Twitter</a>
-  <a href="https://discord.com/invite/HmBAzC4" class="w3-bar-item w3-hover-indigo" style:"fontsize:300%">Discord</a>
-  <a href="https://patreon.com/AxC" class="w3-bar-item w3-hover-orange" style:"fontsize:300%">Patreon</a>
-  <a href="https://streamlabs.com/axtong/tip" class="w3-bar-item w3-hover-teal" style:"fontsize:300%">Donations</a>
-  <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow" style:"fontsize:300%">Instagram</a>
-  <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white" style:"fontsize:300%">Email</a>
+  <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple">Twitch</a>
+  <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red">YouTube</a>
+  <a href="https://twitter.com/AxtonGTV" class="w3-bar-item w3-hover-blue">Twitter</a>
+  <a href="https://discord.com/invite/HmBAzC4" class="w3-bar-item w3-hover-indigo">Discord</a>
+  <a href="https://patreon.com/AxC" class="w3-bar-item w3-hover-orange">Patreon</a>
+  <a href="https://streamlabs.com/axtong/tip" class="w3-bar-item w3-hover-teal">Donations</a>
+  <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow">Instagram</a>
+  <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
   </div>
  <div class="w3-container center">
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
