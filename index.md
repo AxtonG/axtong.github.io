@@ -23,7 +23,7 @@
   <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow">Instagram</a>
   <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
   </div>
- <div class="center">
+ <div class="w3-container center">
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
