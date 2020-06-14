@@ -14,8 +14,8 @@
 
 
 <div class="w3-bar w3-black w3-center"  style="height:55px">
-  <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple">Twitch</a>
-  <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red ">YouTube</a>
+  <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple center">Twitch</a>
+  <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red">YouTube</a>
   <a href="https://twitter.com/AxtonGTV" class="w3-bar-item w3-hover-blue">Twitter</a>
   <a href="https://discord.com/invite/HmBAzC4" class="w3-bar-item w3-hover-indigo">Discord</a>
   <a href="https://patreon.com/AxC" class="w3-bar-item w3-hover-orange">Patreon</a>
