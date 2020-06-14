@@ -14,7 +14,7 @@
   <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:150%">
+  style="width:600px">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
   style="width:150%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
