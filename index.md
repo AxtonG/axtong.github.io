@@ -15,7 +15,7 @@
   </div>
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:600px">
+  style="width:150%">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
   style="width:150%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
