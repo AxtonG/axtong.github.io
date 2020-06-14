@@ -27,11 +27,12 @@
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
   style="width:100%">
 </section>
-
+</html>
 ### CONTENT CREATOR
 
 Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.
 
+<html>
 <footer class="w3-container w3-padding-64 w3-center w3-black w3-xlarge">
 	<h3 class="w3-wide">Links</h3>
   <a href="https://www.twitch.tv/axtong"><i class="fa fa-twitch"></i></a>
@@ -61,3 +62,4 @@ function carousel() {
   setTimeout(carousel, 4000);
 }
 </script>
+</html>
