@@ -12,7 +12,7 @@
 <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
 <body>
 
-<div class="w3-container center">
+<div class="w3-container center" style="height:300px">
 <div class="w3-bar w3-black">
   <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple">Twitch</a>
   <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red ">YouTube</a>
