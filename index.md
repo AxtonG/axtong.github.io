@@ -1,5 +1,23 @@
 <html>
 <body>
+<!DOCTYPE html>
+<html>
+<title>W3.CSS</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body>
+<div class="w3-container">
+
+<div class="w3-bar w3-black">
+  <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple">Twitch</a>
+  <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red ">YouTube</a>
+  <a href="https://twitter.com/AxtonGTV" class="w3-bar-item w3-hover-blue">Twitter</a>
+  <a href="https://discord.com/invite/HmBAzC4" class="w3-bar-item w3-hover-indigo">Discord</a>
+  <a href="https://patreon.com/AxC" class="w3-bar-item w3-hover-orange">Patreon</a>
+  <a href="https://streamlabs.com/axtong/tip" class="w3-bar-item w3-hover-teal">Donations</a>
+  <a href="https://www.instagram.com/axtonog/" class="w3-bar-item w3-hover-yellow">Instagram</a>
+  <a href="mailto:contactaxton@gmail.com" class="w3-bar-item w3-hover-white">Email</a>
+</div>
 <section>
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
   style="width:100%">
@@ -32,8 +50,6 @@
 <h1>CONTENT CREATOR</h1>
 
 <p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
-
-
 <section>
 	<h3 class="w3-wide">Links</h3>
 	<a href="https://www.twitch.tv/axtong">Twitch</a><br>
@@ -45,7 +61,6 @@
   <a href="https://www.instagram.com/axtonog/">Instagram</a><br>
   <a href="mailto:contactaxton@gmail.com">Email</a><br>
 </section>
-
 
 <script>
 var myIndex = 0;
