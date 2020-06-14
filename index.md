@@ -13,7 +13,7 @@
 <body>
 
 
-<div class="w3-bar w3-black w3-center"  style="height:60px">
+<div class="w3-bar w3-black w3-center"  style="height:75px">
   <a href="https://www.twitch.tv/axtong" class="w3-bar-item w3-hover-purple" style="font-size: 50px; text-decoration: none">Twitch</a>
   <a href="https://youtube.com/axtong" class="w3-bar-item w3-hover-red" style="font-size: 50px; text-decoration: none">YouTube</a>
   <a href="https://twitter.com/AxtonGTV" class="w3-bar-item w3-hover-blue" style="font-size: 50px; text-decoration: none">Twitter</a>
