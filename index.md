@@ -51,8 +51,7 @@
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
   style="width:100% height:20%">
 </div>
-<h1>CONTENT CREATOR</h1>
-<p>Recommended by 4 out of 5 people who recommend things. From trying new games to climbing mountains, the AxtonG channels work towards following a dream, no matter what that dream might be at the time.</p>
+
 
 
 <script>
