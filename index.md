@@ -25,7 +25,7 @@
   </div>
 <div class="w3-container">
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:100% height:20%">
+  style="width:100%">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
   style="width:100% height:20%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
