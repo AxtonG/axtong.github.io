@@ -1,8 +1,32 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/AxtonG/AxtonG.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<html>
+<section>
+  <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/qX8ZoIG.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/PhssuFB.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/Xgabcso.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/CtLtJku.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/H3Nu2jE.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/S2EaCZM.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/ur67QXt.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/9sJXkgT.png"
+  style="width:100%">
+  <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
+  style="width:100%">
+</section>
 
 ### Markdown
 
@@ -35,3 +59,21 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+<script>
+// Automatic Slideshow - change image every 3 seconds
+var myIndex = 0;
+carousel();
+
+function carousel() {
+  var i;
+  var x = document.getElementsByClassName("mySlides");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";
+  }
+  myIndex++;
+  if (myIndex > x.length) {myIndex = 1}
+  x[myIndex-1].style.display = "block";
+  setTimeout(carousel, 4000);
+}
+</script>
