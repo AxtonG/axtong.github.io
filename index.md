@@ -3,8 +3,8 @@
   <style>
 .center {
   margin: auto;
-  width: 60%;
-  border: 3px solid #73AD21;
+  width: 100%;
+  
   padding: 10px;
 }
 </style>
