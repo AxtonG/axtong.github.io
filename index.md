@@ -50,7 +50,7 @@
   style="width:110%">
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
   style="width:110%">
-
+</div>
 
 
 
