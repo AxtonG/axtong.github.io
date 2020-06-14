@@ -3,7 +3,7 @@
   <style>
 .center {
   margin: auto;
-  width: 10%;
+  width: 30%;
   
   padding: 10px;
 }
