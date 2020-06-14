@@ -25,31 +25,31 @@
   </div>
 
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-  style="width:90%">
+  style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/unKUrUN.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/sBIe5RV.png"
-  style="width:90%">
+  style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/dKnf6jW.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/qX8ZoIG.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/PhssuFB.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/Xgabcso.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/CtLtJku.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/H3Nu2jE.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/S2EaCZM.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/ur67QXt.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/9sJXkgT.png"
-   style="width:90%">
+   style="width:95%">
   <img class="mySlides" src="https://i.imgur.com/vNKnzOR.png"
-   style="width:90%">
+   style="width:95%">
 </div>
 
 
