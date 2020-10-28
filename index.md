@@ -52,6 +52,10 @@
    style="width:100%">
   </div>
 
+
+<iframe src="https://discord.com/widget?id=371746591549423627&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
+
+
 <a class="e-widget" href="https://giv.gg/CDUgIf" rel="nofollow">View Giveaway</a>
 <script type="text/javascript" src="https://givelab.com/js/e.js" async="true"></script>
 
