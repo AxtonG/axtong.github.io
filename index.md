@@ -52,7 +52,8 @@
    style="width:100%">
   </div>
 
-
+<a class="e-widget" href="https://giv.gg/CDUgIf" rel="nofollow">View Giveaway</a>
+<script type="text/javascript" src="https://givelab.com/js/e.js" async="true"></script>
 
 
 <script>
